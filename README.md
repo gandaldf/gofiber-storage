@@ -36,3 +36,7 @@ type Storage interface {
 	Close() error
 }
 ```
+
+## 📑 Storage Implementations
+
+* [GORM](/gorm)
